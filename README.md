@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Mega-Site Navigation - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Mega-Site Navigation component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/mega-site-navigation)
+- [Info Page](https://codyhouse.co/ds/components/info/mega-site-navigation)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
