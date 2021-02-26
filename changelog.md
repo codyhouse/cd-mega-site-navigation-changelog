@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2021-02-26
+- Added new option to open subnavigation elements on hover rather than on click
+
 ## [1.0.2] - 2020-09-30
 - Improve navigation layout switch on Safari
 
