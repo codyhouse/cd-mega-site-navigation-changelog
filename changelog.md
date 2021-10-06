@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.1] - 2021-10-06
+- New --hover variation
+- Minor changes to the hover variation style
+
 ## [1.1.0] - 2021-02-26
 - Added new option to open subnavigation elements on hover rather than on click
 
