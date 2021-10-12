@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.2] - 2021-10-12
+- Improved accessibility of --hover variation 
+
 ## [1.1.1] - 2021-10-06
 - New --hover variation
 - Minor changes to the hover variation style
